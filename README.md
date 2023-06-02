@@ -19,12 +19,12 @@ npm install
 npm run build
 ```
 
-3 - Ruinning the application
+3 - Running application
 ```zsh
 npm run start
 ```
 
-4 - Running the unit tests
+4 - Running unit tests
 ```zsh
 npm run test
 ```
