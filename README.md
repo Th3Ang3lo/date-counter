@@ -35,7 +35,7 @@ npm run dev
 ```
 
 ### Running with docker
-1 - Build the docker image:
+1 - Build the docker image (the test run on build):
 ```zsh
 docker build -t date .
 ```
